@@ -2,7 +2,7 @@
 // /var x = 0 
 
 // function changeBackgroundColor(color){
-// 	document.body.style.background = color;}
+// 	document.body.style.backgroundColor= color;}
 // function changeBackgroundColor1{
 // 	document.body.style.background = blue;}
 
